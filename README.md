@@ -1,2 +1,2 @@
-# PROGETTO-IS
-Progetto Ingegneria del Software Rocco Iuliano,Antonio De Lucia, Antonio Maddaloni, Francesco Peluso (RAAF-GAMING)
+# SOFTWARE ENGINEERING PROJECT
+A small web project that includes all process of software engineering. It's made by four computer scientist students of "Università degli studi di Salerno".
